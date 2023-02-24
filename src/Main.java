@@ -76,7 +76,7 @@ public class Main {
         System.out.println("");
 
         double [] arrow2 = {1.57, 7.654, 9.986};
-        for (int i =  arrow2.length-1 ; i >= 0; i--)
+        for (int i =  arrow2.length - 1 ; i >= 0; i--)
         {
             if (i > 0)
             {
@@ -88,7 +88,7 @@ public class Main {
         int [] arrow3 = new int[2];
         arrow3[0] = 2323;
         arrow3[1] = 23333;
-        for (int i =  arrow3.length-1 ; i >= 0; i--)
+        for (int i =  arrow3.length - 1 ; i >= 0; i--)
         {
             if (i > (0))
             {
