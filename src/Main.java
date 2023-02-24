@@ -116,7 +116,7 @@ public class Main {
 
     }
     public static void task5() {
-        System.out.println("Task 5");
+        System.out.println("Task 5 ");
 
     }
 }
